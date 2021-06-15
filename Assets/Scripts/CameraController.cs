@@ -13,12 +13,6 @@ public class CameraController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        int a1, a2;
-
-        a1 = 32;
-        a2 = 35;
-        
-        Debug.Log(a2 - a1);
 
     }
 }
